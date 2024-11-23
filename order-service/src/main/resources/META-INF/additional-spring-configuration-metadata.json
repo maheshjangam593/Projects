@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.kafka.topic.name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.topic.name'"
+  },
+  {
+    "name": "spring.cloud.stream.kafka.binder.replication-factor",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.stream.kafka.binder.replication-factor'"
+  }
+]}
