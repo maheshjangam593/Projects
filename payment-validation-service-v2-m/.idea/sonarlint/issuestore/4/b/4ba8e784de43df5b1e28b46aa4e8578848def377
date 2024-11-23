@@ -1,0 +1,7 @@
+
+‹
+java:S1192j"pDefine a constant instead of duplicating this literal " payment processing failed||responseStatusCode:" 4 times.(ŒØË”ıÿÿÿÿ
+‚
+java:S1488O"gImmediately return this expression instead of assigning it to the temporary variable "paymentResponse".(µºÎ¢ıÿÿÿÿ
+h
+java:S6204B"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¦ãœ

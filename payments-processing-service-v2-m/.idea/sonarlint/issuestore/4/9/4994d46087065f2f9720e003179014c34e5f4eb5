@@ -1,0 +1,33 @@
+
+A
+java:S1068"&Remove this unused "id" private field.(â¼°Ñûÿÿÿÿ
+@
+java:S1068"*Remove this unused "userId" private field.(ñ’êŞ
+I
+java:S1068"3Remove this unused "paymentMethodId" private field.(¼›¬Û
+D
+java:S1068".Remove this unused "providerId" private field.(ŠÅƒ™
+L
+java:S1068"1Remove this unused "paymentTypeId" private field.(Õ†ĞÈüÿÿÿÿ
+E
+java:S1068"*Remove this unused "amount" private field.(îş÷ãûÿÿÿÿ
+G
+java:S1068",Remove this unused "currency" private field.(´£±òıÿÿÿÿ
+E
+java:S1068"/Remove this unused "txnStatusId" private field.(’çï¤
+F
+java:S1068"0Remove this unused "txnReference" private field.(ÊéÑ¬
+F
+java:S1068"0Remove this unused "txnDetailsId" private field.(ÿîÒµ
+F
+java:S1068"0Remove this unused "providerCode" private field.(—é´”
+N
+java:S1068"3Remove this unused "providerMessage" private field.(Šåªèşÿÿÿÿ
+M
+java:S1068"2Remove this unused "debitorAccount" private field.(ËÙòÄüÿÿÿÿ
+I
+java:S1068"3Remove this unused "creditorAccount" private field.(Á” “
+K
+java:S1068"5Remove this unused "providerReference" private field.(¾…Ïœ
+V
+java:S1068"@Remove this unused "merchantTransactionReference" private field.(ƒÌµ
